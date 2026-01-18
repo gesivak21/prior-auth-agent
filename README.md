@@ -4,6 +4,14 @@ A **Streamlit-based Prior Authorization agent** that uses **LLMs and LangGraph**
 
 ---
 
+## 🌐 Live Application
+
+The application is deployed on Render and can be accessed here:
+
+👉 https://prior-authorization-agent.onrender.com/
+
+---
+
 ## 🚀 Overview
 
 This application demonstrates a **multi-agent AI workflow** for automating prior authorization decisions in healthcare scenarios.
@@ -114,7 +122,11 @@ streamlit run app.py
 
 ## 📽️ Demo Video
 
-A demo walkthrough video is embedded directly in the **Settings page**, covering:
+A full demo walkthrough video is available here:
+
+👉 https://gesivak21.github.io/MyPortfolio/projects/demo.html
+
+The demo covers:
 
 * Document selection
 * Running the agent
@@ -139,4 +151,5 @@ All rights are reserved.
 
 * No license is granted for reuse, redistribution, or modification
 * Use of this codebase requires **explicit permission from the author**
+
 
