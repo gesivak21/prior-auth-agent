@@ -152,4 +152,8 @@ All rights are reserved.
 * No license is granted for reuse, redistribution, or modification
 * Use of this codebase requires **explicit permission from the author**
 
+## 👩‍💻 Author
+
+**G. Siva Kumar** | 📧 [gesivak21@example.com](mailto:gesivak21@gmail.com) | 🌐 [GitHub](https://github.com/gesivak21/Portfolio)
+
 
